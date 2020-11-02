@@ -3,11 +3,6 @@ export const UPDATE_PRODUCTS = () => {
         type: 'UPDATE_PRODUCTS'
     }
 };
-export const UPDATE_PRODUCTS = () => {
-    return {
-        type: 'UPDATE_PRODUCTS'
-    }
-};
 export const UPDATE_CURRENT_CATEGORY = () => {
     return {
         type: 'UPDATE_CURRENT_CATEGORY'
